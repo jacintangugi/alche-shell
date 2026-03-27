@@ -1,0 +1,19 @@
+ommit used:
+URL: Click here
+ID: 0bb6b4e8849a8a813ebb0ba182766dceb4a85a07
+Author: jacinta ngugi
+Subject: 0-hello_world
+Date: 2026-03-27 08:52:43 -0700
+README.md exists and is not empty
+
+File is present
+
+Must be 2 lines long
+
+First line contains #!/bin/bash
+
+You are not allowed to use backticks, &&, ||, ;, sed or awk
+
+Correct output
+
+Script runs without error
