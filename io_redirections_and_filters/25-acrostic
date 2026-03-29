@@ -1,6 +1,2 @@
 #!/bin/bash
-while read line
-do
-  printf "%c" "$(echo "$line" | cut -c1)"
-done
-echo
+cut -c1 | paste -sd ""
